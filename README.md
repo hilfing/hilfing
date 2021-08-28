@@ -1,4 +1,4 @@
 - 👋 Hi, I’m HilFing_Real.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python and node.js
-- 📫 How to reach me . Mail me at indradip.paul@outlook.com.
+- 📫 Mail me at indradip.paul@outlook.com.
