@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilfing&label=Profile%20views&color=0e75b6&style=flat" alt="hilfing" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hilfing" alt="hilfing" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hilfing&theme=onedark" alt="hilfing" /></p>
 
 - 🔭 I’m currently working on [JarvisAI](https://github.com/PaulStudios/JarvisAI)
 
