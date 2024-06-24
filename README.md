@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hilfing&theme=onedark" alt="hilfing" /></p>
 
-- 🔭 I’m currently working on [JarvisAI](https://github.com/PaulStudios/JarvisAI)
+- 🔭 I’m currently working on [JarvisAI](https://github.com/PaulStudios/JarvisAI) and [PaulStudios Website](https://github.com/PaulStudios/paulstudios-website)
 
 - 🌱 I’m currently learning **Python, NodeJS**
 
