@@ -5,9 +5,9 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hilfing&theme=onedark" alt="hilfing" /></p>
 
-- 🔭 I’m currently working on [JarvisAI](https://github.com/PaulStudios/JarvisAI) and [PaulStudios Website](https://github.com/PaulStudios/paulstudios-website)
+- 🔭 I’m currently working on [UrbanFlow](https://github.com/hilfing/UrbanFlow)
 
-- 🌱 I’m currently learning **Python, NodeJS**
+- 🌱 I’m currently learning **Python, Machine Learning & Kotlin (Android App Development)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hilfing](https://github.com/hilfing)
 
@@ -31,9 +31,11 @@
 ## ![](https://cdn.discordapp.com/emojis/955063484796792872.webp?size=32&quality=lossless) Operating Systems
 
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## ![](https://cdn.discordapp.com/emojis/939564463550500874.webp?size=32&quality=lossless) Editors
 
 ![](https://img.shields.io/badge/Pycharm-90E59A.svg?style=for-the-badge&logo=pycharm&logoColor=black)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
