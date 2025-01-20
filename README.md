@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hilfing](https://github.com/hilfing)
 
-- 📫 How to reach me **indradip.paul@outlook.com**
+- 📫 How to reach me **contact@hilfing.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
