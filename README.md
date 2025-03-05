@@ -5,9 +5,9 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=hilfing&theme=onedark" alt="hilfing" /></p>
 
-- 🔭 I’m currently working on [UrbanFlow](https://github.com/hilfing/UrbanFlow)
+- 🔭 I’m currently working on Mint Projects (can't link as it's private)
 
-- 🌱 I’m currently learning **Python, Machine Learning & Kotlin (Android App Development)**
+- 🌱 I’m currently learning **Python, Machine Learning & Kotlin (Android App Development), C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hilfing](https://github.com/hilfing)
 
