@@ -1,5 +1,11 @@
 <div align="center">
-  <a href="https://hilfing.dev"><img src="assets/header.svg" width="100%" alt="HILFING — full-stack developer & co-founder of AutoMint" /></a>
+  <a href="https://hilfing.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+      <img src="assets/header.svg" width="100%" alt="HILFING — full-stack developer & co-founder of AutoMint" />
+    </picture>
+  </a>
 </div>
 
 <p align="center">
@@ -70,7 +76,11 @@ $ automint --status
 ## >_ telemetry
 
 <div align="center">
-  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry — contributions, stars, streak, top languages, weekly activity wave" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/telemetry.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/telemetry-light.svg" />
+    <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry — contributions, stars, streak, top languages, weekly activity wave" />
+  </picture>
 </div>
 
 <sub>Self-hosted panel — regenerated daily from the GitHub GraphQL API by <a href=".github/workflows/telemetry.yml">a scheduled Action</a>. No third-party stats services.</sub>
