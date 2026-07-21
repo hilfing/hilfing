@@ -69,14 +69,11 @@ $ automint --status
 
 ## >_ telemetry
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hilfing&show_icons=true&bg_color=02040A&title_color=00FF88&text_color=8B98A5&icon_color=00F0FF&ring_color=00FF88&border_color=1F3D2E&border_radius=10&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilfing&layout=compact&langs_count=8&bg_color=02040A&title_color=00FF88&text_color=8B98A5&border_color=1F3D2E&border_radius=10" alt="Top languages" />
-</p>
+<div align="center">
+  <img src="assets/telemetry.svg" width="100%" alt="GitHub telemetry — contributions, stars, streak, top languages, weekly activity wave" />
+</div>
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=hilfing&background=02040A&border=1F3D2E&ring=00FF88&fire=00F0FF&currStreakNum=FFFFFF&currStreakLabel=00FF88&sideNums=00FF88&sideLabels=8B98A5&dates=6B7280&stroke=1F3D2E&border_radius=10" alt="Contribution streak" />
-</p>
+<sub>Self-hosted panel — regenerated daily from the GitHub GraphQL API by <a href=".github/workflows/telemetry.yml">a scheduled Action</a>. No third-party stats services.</sub>
 
 ---
 

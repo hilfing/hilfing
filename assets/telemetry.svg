@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="230" viewBox="0 0 860 230" role="img" aria-label="GitHub telemetry for hilfing: 6,040 contributions in the last year, 5 stars, 7 public repositories.">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 0.9; } 50% { opacity: 0.25; } }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation: none !important; } }
+  </style>
+  <defs>
+    <clipPath id="frame"><rect x="1" y="1" width="858" height="228" rx="12" /></clipPath>
+    <linearGradient id="wave" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00ff88" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#00ff88" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" stroke="#00ff88" stroke-opacity="0.045" fill="none" />
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="858" height="228" rx="12" fill="#02040a" stroke="#00ff88" stroke-opacity="0.32" />
+  <g clip-path="url(#frame)">
+    <rect x="1" y="1" width="858" height="228" fill="url(#grid)" />
+    <rect x="1" y="1" width="858" height="36" fill="#0a0f18" />
+    <line x1="1" y1="37" x2="859" y2="37" stroke="#00ff88" stroke-opacity="0.18" />
+    <circle cx="26" cy="19" r="5.5" fill="#ff5f56" opacity="0.85" />
+    <circle cx="46" cy="19" r="5.5" fill="#ffbd2e" opacity="0.85" />
+    <circle cx="66" cy="19" r="5.5" fill="#27c93f" opacity="0.85" />
+    <text x="430" y="23.5" text-anchor="middle" class="mono" font-size="11" fill="#00ff88" fill-opacity="0.55" letter-spacing="2">hilfing@dev:~$ ./telemetry --range 365d</text>
+
+    <text x="30" y="62" class="mono" font-size="10" letter-spacing="2" fill="#00f0ff" fill-opacity="0.8">// SIGNALS</text>
+    <text x="30" y="84" class="mono" font-size="9" letter-spacing="1.5" fill="#7c8b99">CONTRIBUTIONS_365D</text>
+    <text x="30" y="110" class="mono" font-size="23" font-weight="700" fill="#00ff88">6,040</text>
+    <text x="170" y="84" class="mono" font-size="9" letter-spacing="1.5" fill="#7c8b99">STARS_EARNED</text>
+    <text x="170" y="110" class="mono" font-size="23" font-weight="700" fill="#00ff88">5</text>
+    <text x="30" y="146" class="mono" font-size="9" letter-spacing="1.5" fill="#7c8b99">PUBLIC_REPOS</text>
+    <text x="30" y="172" class="mono" font-size="23" font-weight="700" fill="#00ff88">7</text>
+    <text x="170" y="146" class="mono" font-size="9" letter-spacing="1.5" fill="#7c8b99">STREAK_CUR/MAX</text>
+    <text x="170" y="172" class="mono" font-size="23" font-weight="700" fill="#00ff88">109/109d</text>
+
+    <text x="330" y="62" class="mono" font-size="10" letter-spacing="2" fill="#00f0ff" fill-opacity="0.8">// TOP_LANGUAGES</text>
+    <text x="330" y="84" class="mono" font-size="10" fill="#8b98a5">Python</text>
+    <text x="562" y="84" text-anchor="end" class="mono" font-size="10" fill="#00f0ff">46.3%</text>
+    <rect x="330" y="89" width="232" height="5" rx="2.5" fill="#0a2216" />
+    <rect x="330" y="89" width="108" height="5" rx="2.5" fill="#00ff88" fill-opacity="0.95" />
+    <text x="330" y="111" class="mono" font-size="10" fill="#8b98a5">Kotlin</text>
+    <text x="562" y="111" text-anchor="end" class="mono" font-size="10" fill="#00f0ff">31.5%</text>
+    <rect x="330" y="116" width="232" height="5" rx="2.5" fill="#0a2216" />
+    <rect x="330" y="116" width="73" height="5" rx="2.5" fill="#00ff88" fill-opacity="0.8099999999999999" />
+    <text x="330" y="138" class="mono" font-size="10" fill="#8b98a5">C#</text>
+    <text x="562" y="138" text-anchor="end" class="mono" font-size="10" fill="#00f0ff">20.4%</text>
+    <rect x="330" y="143" width="232" height="5" rx="2.5" fill="#0a2216" />
+    <rect x="330" y="143" width="48" height="5" rx="2.5" fill="#00ff88" fill-opacity="0.6699999999999999" />
+    <text x="330" y="165" class="mono" font-size="10" fill="#8b98a5">JavaScript</text>
+    <text x="562" y="165" text-anchor="end" class="mono" font-size="10" fill="#00f0ff">0.7%</text>
+    <rect x="330" y="170" width="232" height="5" rx="2.5" fill="#0a2216" />
+    <rect x="330" y="170" width="5" height="5" rx="2.5" fill="#00ff88" fill-opacity="0.5299999999999999" />
+    <text x="330" y="192" class="mono" font-size="10" fill="#8b98a5">HTML</text>
+    <text x="562" y="192" text-anchor="end" class="mono" font-size="10" fill="#00f0ff">0.4%</text>
+    <rect x="330" y="197" width="232" height="5" rx="2.5" fill="#0a2216" />
+    <rect x="330" y="197" width="5" height="5" rx="2.5" fill="#00ff88" fill-opacity="0.3899999999999999" />
+
+    <text x="592" y="62" class="mono" font-size="10" letter-spacing="2" fill="#00f0ff" fill-opacity="0.8">// ACTIVITY_WAVE</text>
+    <polygon points="592,164 592.0,164.0 596.6,164.0 601.2,164.0 605.8,164.0 610.5,164.0 615.1,164.0 619.7,164.0 624.3,163.9 628.9,164.0 633.5,164.0 638.2,164.0 642.8,164.0 647.4,164.0 652.0,164.0 656.6,164.0 661.2,164.0 665.8,164.0 670.5,164.0 675.1,164.0 679.7,164.0 684.3,164.0 688.9,164.0 693.5,164.0 698.2,163.5 702.8,161.9 707.4,162.1 712.0,164.0 716.6,163.7 721.2,162.9 725.8,163.9 730.5,163.9 735.1,164.0 739.7,164.0 744.3,156.9 748.9,119.4 753.5,144.8 758.2,162.6 762.8,124.9 767.4,124.8 772.0,116.0 776.6,112.8 781.2,111.4 785.8,78.0 790.5,108.8 795.1,132.7 799.7,135.7 804.3,116.5 808.9,138.1 813.5,148.7 818.2,139.0 822.8,153.6 827.4,138.7 832.0,161.2 832,164" fill="url(#wave)" />
+    <polyline points="592.0,164.0 596.6,164.0 601.2,164.0 605.8,164.0 610.5,164.0 615.1,164.0 619.7,164.0 624.3,163.9 628.9,164.0 633.5,164.0 638.2,164.0 642.8,164.0 647.4,164.0 652.0,164.0 656.6,164.0 661.2,164.0 665.8,164.0 670.5,164.0 675.1,164.0 679.7,164.0 684.3,164.0 688.9,164.0 693.5,164.0 698.2,163.5 702.8,161.9 707.4,162.1 712.0,164.0 716.6,163.7 721.2,162.9 725.8,163.9 730.5,163.9 735.1,164.0 739.7,164.0 744.3,156.9 748.9,119.4 753.5,144.8 758.2,162.6 762.8,124.9 767.4,124.8 772.0,116.0 776.6,112.8 781.2,111.4 785.8,78.0 790.5,108.8 795.1,132.7 799.7,135.7 804.3,116.5 808.9,138.1 813.5,148.7 818.2,139.0 822.8,153.6 827.4,138.7 832.0,161.2" fill="none" stroke="#00ff88" stroke-width="1.6" stroke-linejoin="round" />
+    <circle cx="832.0" cy="161.2" r="3" fill="#00f0ff" class="pulse" />
+    <line x1="592" y1="164" x2="832" y2="164" stroke="#00ff88" stroke-opacity="0.25" />
+
+    <text x="838" y="216" text-anchor="end" class="mono" font-size="9" letter-spacing="1.5" fill="#00ff88" fill-opacity="0.45">LAST_SYNC: 2026-07-21 // SOURCE: GITHUB_GRAPHQL</text>
+  </g>
+</svg>
