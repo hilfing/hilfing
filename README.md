@@ -12,7 +12,7 @@
   <a href="https://hilfing.dev"><img src="https://img.shields.io/badge/HILFING.DEV-02040A?style=for-the-badge&logo=googlechrome&logoColor=00FF88" alt="Website" /></a>
   <a href="mailto:contact@hilfing.dev"><img src="https://img.shields.io/badge/EMAIL-02040A?style=for-the-badge&logo=gmail&logoColor=00FF88" alt="Email" /></a>
   <a href="https://t.me/hilfing"><img src="https://img.shields.io/badge/TELEGRAM-02040A?style=for-the-badge&logo=telegram&logoColor=00FF88" alt="Telegram" /></a>
-  <a href="https://discord.com/users/1479251885767790713"><img src="https://img.shields.io/badge/DISCORD-02040A?style=for-the-badge&logo=discord&logoColor=00FF88" alt="Discord" /></a>
+  <a href="https://discord.com/users/1500529850652430426"><img src="https://img.shields.io/badge/DISCORD-02040A?style=for-the-badge&logo=discord&logoColor=00FF88" alt="Discord" /></a>
 </p>
 
 ```console
