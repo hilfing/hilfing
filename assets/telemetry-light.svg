@@ -64,6 +64,6 @@
     <circle cx="832.0" cy="156.0" r="3" fill="#0891b2" class="pulse" />
     <line x1="592" y1="164" x2="832" y2="164" stroke="#067a47" stroke-opacity="0.3" />
 
-    <text x="838" y="216" text-anchor="end" class="mono" font-size="9" letter-spacing="1.5" fill="#0a6e44" fill-opacity="0.65">LAST_SYNC: 2026-07-24 // SOURCE: GITHUB_GRAPHQL</text>
+    <text x="838" y="216" text-anchor="end" class="mono" font-size="9" letter-spacing="1.5" fill="#0a6e44" fill-opacity="0.65">LAST_SYNC: 2026-07-25 // SOURCE: GITHUB_GRAPHQL</text>
   </g>
 </svg>
