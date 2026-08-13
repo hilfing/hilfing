@@ -34,7 +34,7 @@
     <text x="30" y="146" class="mono" font-size="9" letter-spacing="1.5" fill="#7c8b99">PUBLIC_REPOS</text>
     <text x="30" y="172" class="mono" font-size="23" font-weight="700" fill="#00ff88">7</text>
     <text x="170" y="146" class="mono" font-size="9" letter-spacing="1.5" fill="#7c8b99">STREAK_CUR/MAX</text>
-    <text x="170" y="172" class="mono" font-size="23" font-weight="700" fill="#00ff88">1/120d</text>
+    <text x="170" y="172" class="mono" font-size="23" font-weight="700" fill="#00ff88">0/120d</text>
 
     <text x="330" y="62" class="mono" font-size="10" letter-spacing="2" fill="#00f0ff" fill-opacity="0.8">// TOP_LANGUAGES</text>
     <text x="330" y="84" class="mono" font-size="10" fill="#8b98a5">Python</text>
@@ -64,6 +64,6 @@
     <circle cx="832.0" cy="163.5" r="3" fill="#00f0ff" class="pulse" />
     <line x1="592" y1="164" x2="832" y2="164" stroke="#00ff88" stroke-opacity="0.25" />
 
-    <text x="838" y="216" text-anchor="end" class="mono" font-size="9" letter-spacing="1.5" fill="#00ff88" fill-opacity="0.45">LAST_SYNC: 2026-08-12 // SOURCE: GITHUB_GRAPHQL</text>
+    <text x="838" y="216" text-anchor="end" class="mono" font-size="9" letter-spacing="1.5" fill="#00ff88" fill-opacity="0.45">LAST_SYNC: 2026-08-13 // SOURCE: GITHUB_GRAPHQL</text>
   </g>
 </svg>
